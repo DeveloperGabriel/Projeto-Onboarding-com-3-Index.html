@@ -1,0 +1,15 @@
+:root{
+    --fonte-principal: "Poppins";
+    --cor-de-fundo: #FFFFFF;
+    --cor-do-texto: #000000;
+    --verde-claro: #92E3A9;
+}
+
+.corpo_principal{
+    font-family: var(--fonte-principal);
+    background-color: var(--cor-de-fundo);
+    color: var(--cor-do-texto);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.3px;
+}

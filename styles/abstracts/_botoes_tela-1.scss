@@ -1,20 +1,15 @@
 .botoes_selecao{
     display: flex;
     justify-content: center;
-    margin-top: 64px;
-    .botoes_botao{
-        margin: 0 10px;
-    }
+    gap: 1.1rem;
+    margin-bottom: 19.99%;
+    width: 100%;;
+    margin-top: 4rem;
+
 }
 
-.botao_principal{
-    display: flex;
-    justify-content: center;
-    margin: 2em 0 1em 0;
-}
 
 .texto_skip{
-    text-align: center;
     color: var(--verde-claro);
-    margin-bottom: 3em;
+    margin: 1.5rem 0;
 }

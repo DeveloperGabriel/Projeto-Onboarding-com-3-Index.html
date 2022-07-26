@@ -1,17 +1,18 @@
 .imagem_principal{
     display: flex;
     justify-content: center;
-    .imagem_fundo-1{
-    width: 300px;
+    .imagem_fundo-1{ 
+    width: 18.75rem;; 
+    height: 18.75rem;
     }
 }
 .texto_central{
-    text-align: center;
+    margin: 0 0.5em;
     .texto_central-titulo{
-        font-size: 24px;
+        font-size: 1.25rem;
         font-weight: 600;
     }
     .textos_central-texto{
-        padding-top: 1em;
+        padding-top: 1rem;
     }
 }

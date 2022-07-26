@@ -3,13 +3,15 @@
     justify-content: center;
     gap: 1.1rem;
     margin-bottom: 19.99%;
+    // margin-bottom: 3rem;
     width: 100%;;
     margin-top: 4rem;
 
 }
 
-
 .texto_skip{
     color: var(--verde-claro);
     margin: 1.5rem 0;
+    text-decoration: none;
+    display: inline-block;
 }

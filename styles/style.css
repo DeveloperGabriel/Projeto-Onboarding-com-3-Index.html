@@ -6,7 +6,6 @@
 }
 
 .corpo_principal {
-  max-width: 425px;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -16,6 +15,7 @@
   font-size: 1.125rem;
   font-weight: 400;
   line-height: 23.3px;
+  height: 46.7777777778;
 }
 
 .imagem_principal {
@@ -34,10 +34,9 @@
   font-size: 1.25rem;
   font-weight: 600;
 }
-.texto_central .textos_central-texto {
-  padding-top: 1rem;
+.texto_central .textos_centrais {
+  padding-top: 1.5rem;
 }
-
 .botoes_selecao {
   display: flex;
   justify-content: center;
@@ -50,4 +49,6 @@
 .texto_skip {
   color: var(--verde-claro);
   margin: 1.5rem 0;
+  text-decoration: none;
+  display: inline-block;
 }/*# sourceMappingURL=style.css.map */
